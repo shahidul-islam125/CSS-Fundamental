@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+background-color: #d1d6ea;
+font-size: 20px;
+width: 500px;
+padding: 10px;
+text-align: center;
+margin: 10px auto;
+}
+
+span{
+    background-color: #be0606;
+    color: #d1d6ea;
+    font-size: 20px;
+    width: 500px;
+    padding: 10px;
+    text-align: center;
+    margin: 5px;
+}
+
+a{
+    /* display: inline-block;  width and height property will not effect any change on an Inline type element, thats why, in inline type element display property is used inline-block. */
+    font-size: 20px;
+    background-color: #2908e6;
+    color: aliceblue;
+    width: 500px;
+    padding: 15px;
+    text-align: center;
+    margin: 5px;
+}
